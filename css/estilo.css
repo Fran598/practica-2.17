@@ -1,0 +1,40 @@
+body {
+
+background-color: rgb(207, 188, 104);
+}
+
+@font-face {
+    font-family: "Ribeye Marrow";
+    src: url(../font/GFDsWApshnqMRO2JdtRZ2d0vIAsZVA.woff2);
+  }
+
+  h1.cita {
+
+    font-family: "Ribeye Marrow";
+    text-align: center;
+    color: black;
+    font-size: 3rem;
+    letter-spacing: 25px;
+    text-transform: uppercase;
+    
+  }
+
+  header p {
+  
+    margin: 0 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 175%;
+  } 
+
+
+  cite {
+    text-decoration: underline;
+  }
+
+  p.lobster {
+
+    font-family: 'Lobster', cursive;
+    text-align: left;
+    font-size: 2.5em;
+
+  }
