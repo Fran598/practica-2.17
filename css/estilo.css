@@ -38,3 +38,11 @@ background-color: rgb(207, 188, 104);
     font-size: 2.5em;
 
   }
+
+  p.justanother {
+
+    font-family: 'Just Another Hand', cursive;
+    text-align: right;
+    font-size: 4em;
+
+  }
